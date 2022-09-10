@@ -6,12 +6,11 @@
  *
  * main - Entry point
  *
- * Description: 'the programis about printf'
  *
- * Return: Always 0 (Success)  
+ *
+ * Return: Always 0 (Success)
+ *
  */
-
-
 
 int main(void)
 
