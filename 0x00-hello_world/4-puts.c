@@ -2,15 +2,11 @@
 
 
 /**
- * main - Entry point
+ * main - Entry point 
  *
- *   * 
- *
- *    * Description: 'the programis about printf'
- *
- *     * 
- *
- *      * Return: Always 0 (Success)
+ * Description: 'the programis about printf'
+ * 
+ * Return: Always 0 (Success)
  *
  */
 int main(void)
