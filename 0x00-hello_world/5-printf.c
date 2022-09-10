@@ -4,17 +4,12 @@
 
 /**
  *
- *  * main - Entry point
+ * main - Entry point
  *
- *   * 
+ * Description: 'the programis about printf'
  *
- *    * Description: 'the programis about printf'
- *
- *     * 
- *
- *      * Return: Always 0 (Success)
- *
- *       */
+ * Return: Always 0 (Success)  
+ */
 
 
 
