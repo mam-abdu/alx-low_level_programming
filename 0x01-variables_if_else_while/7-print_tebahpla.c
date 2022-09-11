@@ -25,7 +25,7 @@ int main(void)
 
 
 
-			for (low = 'z'; low >= 'a'; low--)
+		for (low = 'z'; low >= 'a'; low--)
 
 						putchar(low);
 
@@ -33,6 +33,6 @@ int main(void)
 
 
 
-			return (0);
+		return (0);
 
 }
