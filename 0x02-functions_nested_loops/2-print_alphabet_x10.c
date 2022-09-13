@@ -3,7 +3,7 @@
 
 
 /**
- * print_alphabet_x10
+ * print_alphabet_x10 - check main
  *
  * Description: function uses _putchar function to print
  *
