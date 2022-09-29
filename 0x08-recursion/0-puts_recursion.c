@@ -3,7 +3,6 @@
 
 
 /**
- *
  * _puts_recursion - Print a string
  *
  * @s: string
