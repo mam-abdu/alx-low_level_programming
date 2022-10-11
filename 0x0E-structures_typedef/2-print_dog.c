@@ -9,9 +9,9 @@
 /**
  * print_dog - Prints a struct dog
  *
- *   * @d: pointer to struct dog
+ * @d: pointer to struct dog
  *
- *    */
+ */
 
 
 
